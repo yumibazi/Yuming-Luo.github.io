@@ -7,5 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-Hello.
-Coming soon!
+I'm a fourth year undergraduate student from South China University of Technology. My research interest includes computer vision, Deep learning, and Robotics.
